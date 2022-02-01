@@ -1,0 +1,26 @@
+{
+  "name": "littlemath",
+  "version": "1.0.0",
+  "description": "This package will solve little math problems with the help of internal functions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uc-anr/littleMath.git"
+  },
+  "keywords": [
+    "little",
+    "math",
+    "mathematics",
+    "function",
+    "equations"
+  ],
+  "author": "Ankit Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uc-anr/littleMath/issues"
+  },
+  "homepage": "https://github.com/uc-anr/littleMath#readme"
+}
