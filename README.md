@@ -1,4 +1,4 @@
-**little-math** is a little library for JavaScript and Node.js.
+**little-math** is a lightweight math library for JavaScript and Node.js.
 It is very lightweight and fully optimized for any application.It is overloaded with multiple handy solutions for mathematical computations.
 
 [![Version](https://img.shields.io/npm/v/littlemath.svg)](https://www.npmjs.com/package/littlemath)
